@@ -1,2 +1,2 @@
 # hello-world
-github 101
+this is me learning github 101!
